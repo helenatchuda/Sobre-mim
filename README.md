@@ -1,0 +1,20 @@
+# Sobre mim
+O meu primeiro projeto no **Bootcamp da Tripleten Brasil**
+Um projeto simples para mostrar as coisas que gosto de fazer
+
+# Objetivo do projeto
+- Introdução ao HTML
+- Introdução ao CSS
+
+## Estrutura do projeto
+- index.html
+- style.css
+- images
+    - minha-casa.jpg
+    - carro.jpg
+    - turi.jpg
+    - natu.jpg
+
+## Tecnologias utilizadas
+- HTML
+- CSS
